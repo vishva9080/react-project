@@ -1,0 +1,15 @@
+.button1{
+    background-color: blue;
+
+    padding: 5px 10px 5px 10px;
+    margin: 10px 0px 0px 120px ;
+}
+small{
+    color: red;
+}
+.pass
+{
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
